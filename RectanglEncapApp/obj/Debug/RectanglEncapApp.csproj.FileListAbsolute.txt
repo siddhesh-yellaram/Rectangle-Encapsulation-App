@@ -1,0 +1,7 @@
+D:\test\.NET\RectanglEncapApp\bin\Debug\RectanglEncapApp.exe.config
+D:\test\.NET\RectanglEncapApp\bin\Debug\RectanglEncapApp.exe
+D:\test\.NET\RectanglEncapApp\bin\Debug\RectanglEncapApp.pdb
+D:\test\.NET\RectanglEncapApp\obj\Debug\RectanglEncapApp.csproj.AssemblyReference.cache
+D:\test\.NET\RectanglEncapApp\obj\Debug\RectanglEncapApp.csproj.CoreCompileInputs.cache
+D:\test\.NET\RectanglEncapApp\obj\Debug\RectanglEncapApp.exe
+D:\test\.NET\RectanglEncapApp\obj\Debug\RectanglEncapApp.pdb
